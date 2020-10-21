@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da850d36-1179-4001-a720-0570d24af9c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea/.idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesWithGettersAndSetters/src/Obeject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassesWithGettersAndSetters/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9Classes/Day9Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9Classes/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9ClassesAndObejects/Day9ClassesAndObejects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9ClassesAndObejects/src/Liabrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9ClassesAndObjects/Day9ClassesAndObjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewString/NewString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day10Algorithms/day10Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day10Algorithms/src/Algorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newAssignment/newAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newAssignment/src/MethodArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAssignResubmiting/ArraysAssignResubmiting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Methods/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysMethodsAssignment/ArraysMethodsAssignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/Arrays2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassesWithGettersAndSetters/ClassesWithGettersAndSetters.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/src/Methods/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoopFizzAssign1" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoopFizzAssign1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopsPartOne/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopsPartOne/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/out/production/methods/Methods/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../methods/out/production/methods/Methods/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/src/Methods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../methods/src/Methods/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hFxXOS7wuNq2CveqF9JQNx4aj9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ArraysMethodsAssignment" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da850d36-1179-4001-a720-0570d24af9c1" name="Default Changelist" comment="" />
+      <created>1599620680666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599620680666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600399278353">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600399278353" />
+    <state x="437" y="45" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1600419679612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="45" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1600419679612" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600419581248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1600419581248" />
+    <state x="398" y="44" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600421915628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="44" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1600421915628" />
+    <state x="421" y="58" key="FileChooserDialogImpl" timestamp="1600611837031">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="58" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600611837031" />
+    <state width="1222" height="150" key="GridCell.Tab.0.bottom" timestamp="1600422136736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600422136736" />
+    <state width="1222" height="150" key="GridCell.Tab.0.center" timestamp="1600422136736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="150" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600422136736" />
+    <state width="1222" height="150" key="GridCell.Tab.0.left" timestamp="1600422136736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="150" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600422136736" />
+    <state width="1222" height="150" key="GridCell.Tab.0.right" timestamp="1600422136736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="150" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600422136736" />
+    <state x="316" y="45" key="NewModule_or_Project.wizard" timestamp="1599697428296">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="45" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1599697428296" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1600399286392">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1600399286392" />
+  </component>
+</project>
