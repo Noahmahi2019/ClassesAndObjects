@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="openjdk-14" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/out/test/JavaFX-1"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="javafx-sdk-11.0" scope="TEST"/>
+</component>

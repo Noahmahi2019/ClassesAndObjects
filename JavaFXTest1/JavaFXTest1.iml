@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/out/production/JavaFXTest1" />
+    <output-test url="file://$MODULE_DIR$/out/test/JavaFXTest1" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="file://C:/Program Files/Java/javafx-sdk-15.0.1" />
+      <root url="jar://C:/Program Files/Java/openjfx-15.0.1-javadoc.zip!/" />
+      <root url="jar://C:/Program Files/Java/openjfx-15.0.1_windows-x64_bin-sdk.zip!/" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="JavaFX" level="application" />
+  </component>
+</module>
